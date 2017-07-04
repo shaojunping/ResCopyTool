@@ -1,0 +1,10 @@
+E:\engeneer\x51_8681\exe\资源拷贝工具\ResCopyTool.exe.config
+E:\engeneer\x51_8681\exe\资源拷贝工具\ResCopyTool.exe
+E:\engeneer\x51_8681\exe\资源拷贝工具\ResCopyTool.pdb
+E:\engeneer\x51_8681\Code\InternalUse\ResCopyTool\ResCopyTool\ResCopyTool\obj\x86\Release\ResCopyTool.csprojResolveAssemblyReference.cache
+E:\engeneer\x51_8681\Code\InternalUse\ResCopyTool\ResCopyTool\ResCopyTool\obj\x86\Release\ResCopyTool.Interface.SelectFile.resources
+E:\engeneer\x51_8681\Code\InternalUse\ResCopyTool\ResCopyTool\ResCopyTool\obj\x86\Release\ResCopyTool.MainForm.resources
+E:\engeneer\x51_8681\Code\InternalUse\ResCopyTool\ResCopyTool\ResCopyTool\obj\x86\Release\ResCopyTool.Properties.Resources.resources
+E:\engeneer\x51_8681\Code\InternalUse\ResCopyTool\ResCopyTool\ResCopyTool\obj\x86\Release\ResCopyTool.csproj.GenerateResource.Cache
+E:\engeneer\x51_8681\Code\InternalUse\ResCopyTool\ResCopyTool\ResCopyTool\obj\x86\Release\ResCopyTool.exe
+E:\engeneer\x51_8681\Code\InternalUse\ResCopyTool\ResCopyTool\ResCopyTool\obj\x86\Release\ResCopyTool.pdb
